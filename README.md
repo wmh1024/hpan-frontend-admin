@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://github.com/wmh1024/hpan-frontend-admin">
-    <img src="https://pic.imgdb.cn/item/65810c20c458853aef07bdab.png" alt="Logo" width="100" height="100">
+    <img src="image/icon.png" alt="Logo" width="100" height="100">
   </a>
 
   <h3 align="center">Hpan下载合集 - 前端 （管理端）</h3>
